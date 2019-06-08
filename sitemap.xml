@@ -2,58 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://zhangwei94.github.io/repository/index.html</loc>
+    <loc>http://zhangwei94.github.io/2019/06/03/HashMap/</loc>
     
-    <lastmod>2019-06-02T09:50:32.006Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhangwei94.github.io/links/index.html</loc>
-    
-    <lastmod>2019-06-02T09:50:15.769Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhangwei94.github.io/books/index.html</loc>
-    
-    <lastmod>2019-06-02T09:43:10.061Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhangwei94.github.io/about/index.html</loc>
-    
-    <lastmod>2019-06-02T09:42:33.747Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhangwei94.github.io/2019/06/02/hello-world/</loc>
-    
-    <lastmod>2019-06-01T17:31:43.149Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhangwei94.github.io//404.html</loc>
-    
-    <lastmod>2019-03-27T10:36:52.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zhangwei94.github.io/categories/index.html</loc>
-    
-    <lastmod>2019-03-27T10:36:52.000Z</lastmod>
+    <lastmod>2019-06-08T11:06:49.685Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://zhangwei94.github.io/tags/index.html</loc>
     
-    <lastmod>2019-03-27T10:36:52.000Z</lastmod>
+    <lastmod>2019-06-02T11:50:19.620Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zhangwei94.github.io/2019/06/02/hello-world/</loc>
+    
+    <lastmod>2019-06-02T11:50:19.619Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zhangwei94.github.io/books/index.html</loc>
+    
+    <lastmod>2019-06-02T11:50:19.619Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zhangwei94.github.io/about/index.html</loc>
+    
+    <lastmod>2019-06-02T11:50:19.619Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zhangwei94.github.io/repository/index.html</loc>
+    
+    <lastmod>2019-06-02T11:50:19.619Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zhangwei94.github.io/categories/index.html</loc>
+    
+    <lastmod>2019-06-02T11:50:19.619Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zhangwei94.github.io/links/index.html</loc>
+    
+    <lastmod>2019-06-02T11:50:19.619Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zhangwei94.github.io//404.html</loc>
+    
+    <lastmod>2019-06-02T11:50:19.618Z</lastmod>
     
   </url>
   
